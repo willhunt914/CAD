@@ -4,12 +4,28 @@
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Swing_Arm](#Swing_Arm)
-* [CircuitPython_Servo](#CircuitPython_Servo)
+* [4.1_Ring](#4.1_Ring)
 * [CircuitPython_LCD](#CircuitPython_LCD)
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
-## Swing_Arm 
+### Swing_Arm 
 The goal of this project is to use the given drawinga and dimensions to create a swing arm in Onshape.
 
- [Swing arm onshape](https://cvilleschools.onshape.com/documents/38cffd9b92321ffacaa285ff/w/e6e5636cd8ff9c6a04af5d9c/e/c91c876c5e79c30c59af81c6?renderMode=0&uiState=635690c55902f51d731041dd))
+ [Swing arm onshape](https://cvilleschools.onshape.com/documents/38cffd9b92321ffacaa285ff/w/e6e5636cd8ff9c6a04af5d9c/e/c91c876c5e79c30c59af81c6?renderMode=0&uiState=635690c55902f51d731041dd)
+ 
+
+![swing arm sketch](https://user-images.githubusercontent.com/71402974/197537543-198e75ca-6ce3-41df-bb89-073149289105.png)
+![swing arm ](https://user-images.githubusercontent.com/71402974/197537778-56b213b8-a8e7-4bac-b4cc-361af4551334.png)
+
+### Reflection 
+The problem I had with this asignment was that the constraits were conflicted. I fixed this problem by drawing the rough sketch without any dimensions or constrains and then doing them at the end. 
+
+### 4.1_Ring
+The goal of this assignment was to create the ring for the spinner.
+
+![4 1](https://user-images.githubusercontent.com/71402974/197541002-cd1d50b1-03db-408f-bdcf-c7af983b60ee.png)
+
+### Reflection 
+I learned how to create a new variable and how to use it.
+
