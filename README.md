@@ -5,7 +5,7 @@
 * [Table of Contents](#TableOfContents)
 * [Swing_Arm](#Swing_Arm)
 * [4.1_Ring](#4.1_Ring)
-* [CircuitPython_LCD](#CircuitPython_LCD)
+* [4.2_Key](#4.2_Key)
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
@@ -24,8 +24,15 @@ The problem I had with this asignment was that the constraits were conflicted. I
 ### 4.1_Ring
 The goal of this assignment was to create the ring for the spinner.
 
-![4 1](https://user-images.githubusercontent.com/71402974/197541002-cd1d50b1-03db-408f-bdcf-c7af983b60ee.png)
+![ring](https://user-images.githubusercontent.com/71402974/197541002-cd1d50b1-03db-408f-bdcf-c7af983b60ee.png)
 
 ### Reflection 
 I learned how to create a new variable and how to use it.
+
+### 4.2_Key
+The goal of this assignment was to create the key for the spinner.
+
+![key](https://user-images.githubusercontent.com/71402974/197542492-a5d48b14-5d41-4322-b4f4-9fb39dfefafb.png)
+
+
 
