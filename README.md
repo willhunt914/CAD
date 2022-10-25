@@ -28,6 +28,8 @@ This is the final swing arm, it includes multiple extrudes.
 ### Reflection 
 The problem I had with this asignment was that the constraits were conflicted. I fixed this problem by drawing the rough sketch without any dimensions or constrains and then doing them at the end. 
 
+[Spinner onshape ](https://cvilleschools.onshape.com/documents/599bcf8a3c0dbc000fd876a4/v/21eb050971f0f538471ca7ec/e/ddc179716c59c8562e0c77ec)
+
 ## Ring
 The goal of this assignment was to create the ring for the spinner.
 
@@ -69,5 +71,9 @@ We were given multiple drawings and dimentions to create a new part.
 
 This includes multiple parts including the Cylinder, top and bottom cap, plunger, plunger top, and bolts.
 
+
+
+[Multi Part Studio onshape](https://cvilleschools.onshape.com/documents/e915585f329254e84de8526b/w/39621b48525bb42968f7557e/e/d2204722f46c47d3f66a3c71)
+
 ### Reflection
-I learned that on the drawing if the dimensions are in parenthases then you should not have to manually put it in.
+I learned that on the drawing if the dimensions are in parentheses then you should not have to manually put it in.
