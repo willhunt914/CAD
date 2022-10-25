@@ -70,7 +70,8 @@ I learned that you should use a branch when you want to create a independent wor
 ## Multipart_Studio
 We were given multiple drawings and dimentions to create a new part.
 
-![multi part studio](https://user-images.githubusercontent.com/71402974/197798641-c9b8b33c-b5cc-4a04-92d6-027131d9cdf8.png)
+![Multi Part Studio](https://user-images.githubusercontent.com/71402974/197843004-b8170aa3-25dc-4ecd-b15e-60295bbfa04a.png)
+
 
 This includes multiple parts including the Cylinder, top and bottom cap, plunger, plunger top, and bolts.
 
