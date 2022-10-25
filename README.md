@@ -68,7 +68,7 @@ This photo includes versions from Both me and Matthias including both of our spi
 I learned that you should use a branch when you want to create a independent workspace in the same document and a version is a snapshot in time.
 
 ## Multipart_Studio
-We were given multiple drawings and dimentions to create a new part.
+We were given multiple drawings and dimensions to create a new part.
 
 ![Multi Part Studio](https://user-images.githubusercontent.com/71402974/197843004-b8170aa3-25dc-4ecd-b15e-60295bbfa04a.png)
 
