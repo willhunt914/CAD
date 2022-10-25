@@ -2,7 +2,6 @@
 
 [Here's a link to our class directory](https://github.com/chssigma/Class_Accounts).
 ## Table of Contents
-* [Table of Contents](#TableOfContents)
 * [Swing_Arm](#Swing_Arm)
 * [4.1_Ring](#Ring)
 * [4.2_Key](#Key)
@@ -35,6 +34,8 @@ The goal of this assignment was to create the ring for the spinner.
 
 ![ring](https://user-images.githubusercontent.com/71402974/197541002-cd1d50b1-03db-408f-bdcf-c7af983b60ee.png)
 
+This image shows the ring 
+
 ### Reflection 
 I learned how to create a new variable and how to use it.
 
@@ -42,6 +43,8 @@ I learned how to create a new variable and how to use it.
 The goal of this assignment was to create the key for the spinner.
 
 ![key](https://user-images.githubusercontent.com/71402974/197542492-a5d48b14-5d41-4322-b4f4-9fb39dfefafb.png)
+
+This shows a image of the key
 
 ### Reflection 
 The instructions told us to make the Key a certain length but I would reccomend to make it longer.
@@ -77,5 +80,5 @@ This includes multiple parts including the Cylinder, top and bottom cap, plunger
 
 ### Reflection
 I learned that on the drawing if the dimensions are in parentheses then you should not have to manually put it in.
-I learned that for the second question that we had to extrude it up to face,
+I learned that for the second question that we had to extrude the poles up to face instead of extruding them blindly.
 
