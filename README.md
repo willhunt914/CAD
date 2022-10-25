@@ -15,8 +15,11 @@ The goal of this project is to use the given drawing and dimensions to create a 
  [Swing arm onshape](https://cvilleschools.onshape.com/documents/38cffd9b92321ffacaa285ff/w/e6e5636cd8ff9c6a04af5d9c/e/c91c876c5e79c30c59af81c6?renderMode=0&uiState=635690c55902f51d731041dd)
  
 
-![swing arm sketch](https://user-images.githubusercontent.com/71402974/197537543-198e75ca-6ce3-41df-bb89-073149289105.png)
-![swing arm ](https://user-images.githubusercontent.com/71402974/197537778-56b213b8-a8e7-4bac-b4cc-361af4551334.png)
+![swing arm sketch 3](https://user-images.githubusercontent.com/71402974/197786232-fbbb7629-122f-42e9-9caa-6bfb2cbcbd2e.png)
+This shows the dimensions of the swing arm.
+
+![swing arm 2 ](https://user-images.githubusercontent.com/71402974/197785657-308b9a39-d0e9-49f4-bc14-578b1aa41f79.png)
+This is the final swing arm, it includes multiple extrudes.
 
 ### Reflection 
 The problem I had with this asignment was that the constraits were conflicted. I fixed this problem by drawing the rough sketch without any dimensions or constrains and then doing them at the end. 
