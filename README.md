@@ -10,7 +10,7 @@
 ---
 
 ## Swing_Arm 
-The goal of this project is to use the given drawinga and dimensions to create a swing arm in Onshape.
+The goal of this project is to use the given drawing and dimensions to create a swing arm in Onshape.
 
  [Swing arm onshape](https://cvilleschools.onshape.com/documents/38cffd9b92321ffacaa285ff/w/e6e5636cd8ff9c6a04af5d9c/e/c91c876c5e79c30c59af81c6?renderMode=0&uiState=635690c55902f51d731041dd)
  
@@ -35,7 +35,7 @@ The goal of this assignment was to create the key for the spinner.
 ![key](https://user-images.githubusercontent.com/71402974/197542492-a5d48b14-5d41-4322-b4f4-9fb39dfefafb.png)
 
 ### Reflection 
-The only problem I had was with the linear pattern and figuring out the right direction.
+The instructions told us to make the Key a certain length but I would reccomend to make it longer.
 
 
 
