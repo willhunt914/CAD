@@ -55,7 +55,7 @@ The goal of this assingment was to use that parts that we already built and asse
 I learned that when you are inserting hardware into a part you dont have to individually use mates and you can just select the 3 holes and then insert.
 
 ## Branch_and_Merge
-The goal of this asignment was to create new branches and ver
+The goal of this asignment was to create new branches and versions.
 
 ![branch](https://user-images.githubusercontent.com/71402974/197795208-2c2616d9-2cc8-47aa-a91b-cbae74ba838c.png)
 
@@ -77,3 +77,5 @@ This includes multiple parts including the Cylinder, top and bottom cap, plunger
 
 ### Reflection
 I learned that on the drawing if the dimensions are in parentheses then you should not have to manually put it in.
+I learned that for the second question that we had to extrude it up to face,
+
