@@ -16,9 +16,11 @@ The goal of this project is to use the given drawing and dimensions to create a 
  
 
 ![swing arm sketch 3](https://user-images.githubusercontent.com/71402974/197786232-fbbb7629-122f-42e9-9caa-6bfb2cbcbd2e.png)
+
 This shows the dimensions of the swing arm.
 
 ![swing arm 2 ](https://user-images.githubusercontent.com/71402974/197785657-308b9a39-d0e9-49f4-bc14-578b1aa41f79.png)
+
 This is the final swing arm, it includes multiple extrudes.
 
 ### Reflection 
