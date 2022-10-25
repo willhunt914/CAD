@@ -27,7 +27,7 @@ This is the final swing arm, it includes multiple extrudes.
 ### Reflection 
 The problem I had with this asignment was that the constraits were conflicted. I fixed this problem by drawing the rough sketch without any dimensions or constrains and then doing them at the end. 
 
-[Spinner onshape ]([https://cvilleschools.onshape.com/documents/599bcf8a3c0dbc000fd876a4/v/21eb050971f0f538471ca7ec/e/ddc179716c59c8562e0c77ec](https://cvilleschools.onshape.com/documents/599bcf8a3c0dbc000fd876a4/w/1f5119145eb5bfcb4441b8e6/e/ddc179716c59c8562e0c77ec?renderMode=0&uiState=63581adbd69dab1d2971c2ef))
+[Spinner onshape ](https://cvilleschools.onshape.com/documents/599bcf8a3c0dbc000fd876a4/w/1f5119145eb5bfcb4441b8e6/e/ddc179716c59c8562e0c77ec?renderMode=0&uiState=6358756cba9e30446fa337f9)
 
 ## Ring
 The goal of this assignment was to create the ring for the spinner.
