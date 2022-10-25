@@ -1,4 +1,4 @@
-# CircuitPython
+# Intermediate CAD
 
 (https://github.com/chssigma/Class_Accounts).
 ## Table of Contents
