@@ -4,8 +4,8 @@
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Swing_Arm](#Swing_Arm)
-* [4.1_Ring](Ring)
-* [4.2_Key](Key)
+* [4.1_Ring](#Ring)
+* [4.2_Key](#Key)
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
