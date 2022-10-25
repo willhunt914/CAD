@@ -9,7 +9,7 @@
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
-### Swing_Arm 
+## Swing_Arm 
 The goal of this project is to use the given drawinga and dimensions to create a swing arm in Onshape.
 
  [Swing arm onshape](https://cvilleschools.onshape.com/documents/38cffd9b92321ffacaa285ff/w/e6e5636cd8ff9c6a04af5d9c/e/c91c876c5e79c30c59af81c6?renderMode=0&uiState=635690c55902f51d731041dd)
@@ -21,7 +21,7 @@ The goal of this project is to use the given drawinga and dimensions to create a
 ### Reflection 
 The problem I had with this asignment was that the constraits were conflicted. I fixed this problem by drawing the rough sketch without any dimensions or constrains and then doing them at the end. 
 
-### Ring
+## Ring
 The goal of this assignment was to create the ring for the spinner.
 
 ![ring](https://user-images.githubusercontent.com/71402974/197541002-cd1d50b1-03db-408f-bdcf-c7af983b60ee.png)
@@ -29,7 +29,7 @@ The goal of this assignment was to create the ring for the spinner.
 ### Reflection 
 I learned how to create a new variable and how to use it.
 
-### Key
+## Key
 The goal of this assignment was to create the key for the spinner.
 
 ![key](https://user-images.githubusercontent.com/71402974/197542492-a5d48b14-5d41-4322-b4f4-9fb39dfefafb.png)
