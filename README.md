@@ -65,6 +65,7 @@ I learned that you should use a branch when you want to create a independent wor
 We were given multiple drawings and dimentions to create a new part.
 
 ![multi part studio](https://user-images.githubusercontent.com/71402974/197798641-c9b8b33c-b5cc-4a04-92d6-027131d9cdf8.png)
+This includes multiple parts including the Cylinder, top and bottom cap, plunger, plunger top, and bolts.
 
 ### Reflection
 I learned that on the drawing if the dimensions are in parenthases then you should not have to manually put it in.
