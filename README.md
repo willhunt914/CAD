@@ -7,6 +7,8 @@
 * [4.1_Ring](#Ring)
 * [4.2_Key](#Key)
 * [4.3_Assembly](#Assembly)
+* [4.4/5 Branch and Merge](#Branch_and_Merge)
+* [Multipart_Studio](# Multipart_Studio)
 ---
 
 ## Swing_Arm 
@@ -50,4 +52,19 @@ The goal of this assingment was to use that parts that we already built and asse
 ### Reflection 
 I learned that when you are inserting hardware into a part you dont have to individually use mates and you can just select the 3 holes and then insert.
 
+## Branch_and_Merge
+The goal of this asignment was to create new branches and ver
 
+![branch](https://user-images.githubusercontent.com/71402974/197795208-2c2616d9-2cc8-47aa-a91b-cbae74ba838c.png)
+This photo includes versions from Both me and Matthias including both of our spinner designs.
+
+### Reflection 
+I learned that you should use a branch when you want to create a independent workspace in the same document and a version is a snapshot in time.
+
+## Multipart_Studio
+We were given multiple drawings and dimentions to create a new part.
+
+![multi part studio](https://user-images.githubusercontent.com/71402974/197798641-c9b8b33c-b5cc-4a04-92d6-027131d9cdf8.png)
+
+### Reflection
+I learned that on the drawing if the dimensions are in parenthases then you should not have to manually put it in.
