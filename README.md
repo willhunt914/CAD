@@ -6,7 +6,7 @@
 * [Swing_Arm](#Swing_Arm)
 * [4.1_Ring](#Ring)
 * [4.2_Key](#Key)
-* [NextAssignmentGoesHere](#NextAssignment)
+* [4.3_Assembly](#Assembly)
 ---
 
 ## Swing_Arm 
@@ -42,5 +42,12 @@ The goal of this assignment was to create the key for the spinner.
 ### Reflection 
 The instructions told us to make the Key a certain length but I would reccomend to make it longer.
 
+## Assembly 
+The goal of this assingment was to use that parts that we already built and assemble them together.
+
+![Assembly](https://user-images.githubusercontent.com/71402974/197790905-c2627253-1b83-4d85-9b6f-ab82234299cb.png)
+
+### Reflection 
+I learned that when you are inserting hardware into a part you dont have to individually use mates and you can just select the 3 holes and then insert.
 
 
