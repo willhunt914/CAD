@@ -65,7 +65,7 @@ The goal of this asignment was to create new branches and versions.
 This photo includes versions from Both me and Matthias including both of our spinner designs.
 
 ### Reflection 
-I learned that you should use a branch when you want to create a independent workspace in the same document and a version is a snapshot in time.
+I learned that you should use a branch when you want to create a independent workspace in the same document and a version use a version when you want to create a snapshot in time.
 
 ## Multipart_Studio
 We were given multiple drawings and dimensions to create a new part.
