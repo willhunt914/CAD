@@ -1,6 +1,6 @@
 # Intermediate CAD
 
-(https://github.com/chssigma/Class_Accounts).
+[Here's a link to our class directory](https://github.com/chssigma/Class_Accounts).
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Swing_Arm](#Swing_Arm)
