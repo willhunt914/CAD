@@ -76,7 +76,7 @@ We were given multiple drawings and dimensions to create a new part.
 This includes multiple parts including the Cylinder, top and bottom cap, plunger, plunger top, and bolts.
 
 
-[Multi Part Studio onshape]([https://cvilleschools.onshape.com/documents/e915585f329254e84de8526b/w/39621b48525bb42968f7557e/e/d2204722f46c47d3f66a3c71](https://cvilleschools.onshape.com/documents/e915585f329254e84de8526b/w/39621b48525bb42968f7557e/e/d2204722f46c47d3f66a3c71?renderMode=0&uiState=63581a5812e82f08ee23d2c6))
+![Multi Part Studio onshape](https://cvilleschools.onshape.com/documents/e915585f329254e84de8526b/w/39621b48525bb42968f7557e/e/d2204722f46c47d3f66a3c71)
 
 ### Reflection
 On the drawing if the dimensions are in parentheses then you should not have to manually put it in.
