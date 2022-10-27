@@ -55,7 +55,7 @@ The goal of this assingment was to use that parts that we already built and asse
 ![Assembly](https://user-images.githubusercontent.com/71402974/197790905-c2627253-1b83-4d85-9b6f-ab82234299cb.png)
 
 ### Reflection 
-I learned that when you are inserting hardware into a part you dont have to individually use mates and you can just select the 3 holes and then insert.
+I learned that when you are inserting hardware into a part you dont have to individually use mates and you can just select the 3 holes and then insert. I learned that if you hold shift when your cursor is over the right face it locks the mates.
 
 ## Branch_and_Merge
 The goal of this asignment was to create new branches and versions.
@@ -65,7 +65,7 @@ The goal of this asignment was to create new branches and versions.
 This photo includes versions from Both me and Matthias including both of our spinner designs.
 
 ### Reflection 
-I learned that you should use a branch when you want to create a independent workspace in the same document. You should use a version when you want to create a snapshop in time. Instead of the extrude tool, you should use the loft tool if you want the sketch to change as it extrudes.
+I learned that you should use a branch when you want to create a independent workspace in the same document. You should use a version when you want to create a snapshop in time. Instead of the extrude tool, you should use the loft tool if you want the sketch to change as it extrudes. You can use the animate tool to showcase your assembly.
 
 ## Multipart_Studio
 We were given multiple drawings and dimensions to create a new part.
