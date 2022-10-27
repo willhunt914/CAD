@@ -25,7 +25,7 @@ This shows the dimensions of the swing arm.
 This is the final swing arm, it includes multiple extrudes.
 
 ### Reflection 
-The problem I had with this asignment was that the constraits were conflicted. I fixed this problem by drawing the rough sketch without any dimensions or constrains and then doing them at the end. I would recoment using construction lines to keep the main lines symmetrical and parallel when they need to be.
+The problem I had with this asignment was that the constraits were conflicted. I fixed this problem by drawing the rough sketch without any dimensions or constrains and then doing them at the end. I would recommend using construction lines to keep the main lines symmetrical and parallel when they need to be.
 
 [Spinner onshape ](https://cvilleschools.onshape.com/documents/599bcf8a3c0dbc000fd876a4/w/1f5119145eb5bfcb4441b8e6/e/ddc179716c59c8562e0c77ec?renderMode=0&uiState=6358756cba9e30446fa337f9)
 
@@ -37,7 +37,7 @@ The goal of this assignment was to create the ring for the spinner.
 This image shows the ring 
 
 ### Reflection 
-I learned how to create a new variable and how to use it. I also learned that you can set the dimention to the variable plus or minus any number. I learned that you can use a chamfer tool instead of a filet tool if you want a less rounded edge.
+I learned how to create a new variable and how to use it. I also learned that you can set the dimension to the variable plus or minus any number(Example: #print_gap+4). I learned that you can use a chamfer tool instead of a filet tool if you want a less rounded edge.
 
 ## Key
 The goal of this assignment was to create the key for the spinner.
@@ -47,7 +47,7 @@ The goal of this assignment was to create the key for the spinner.
 This shows a image of the key
 
 ### Reflection 
-The instructions told us to make the Key a certain length but I would reccomend to make it longer. I learned that to figure out the distance of the liniar pattern you have to the diameter of the pitch circle and Pi by the number of teeth. This can be useful when you have a gear and want to make it fit with a gear rack and you want to figure out what dimensions to use.
+The instructions told us to make the Key a certain length but I would reccomend to make it longer. I learned that to figure out the distance of the linear pattern you have to the diameter of the pitch circle and Pi by the number of teeth. This can be useful when you have a gear and want to make it fit with a gear rack and you want to figure out what dimensions to use.
 
 ## Assembly 
 The goal of this assingment was to use that parts that we already built and assemble them together.
@@ -55,17 +55,17 @@ The goal of this assingment was to use that parts that we already built and asse
 ![Assembly](https://user-images.githubusercontent.com/71402974/197790905-c2627253-1b83-4d85-9b6f-ab82234299cb.png)
 
 ### Reflection 
-I learned that when you are inserting hardware into a part you dont have to individually use mates and you can just select the 3 holes and then insert. I learned that if you hold shift when your cursor is over the right face it locks the mates.
+I learned that when you are inserting hardware into a part you dont have to individually use mates and you can just select the 3 holes and then insert. I learned that if you hold shift when your cursor is over the right face it locks the mates. You can use the animate tool to showcase your assembly.
 
 ## Branch_and_Merge
-The goal of this asignment was to create new branches and versions.
+The goal of this assignment was to create new branches and versions.
 
 ![branch](https://user-images.githubusercontent.com/71402974/197795208-2c2616d9-2cc8-47aa-a91b-cbae74ba838c.png)
 
 This photo includes versions from Both me and Matthias including both of our spinner designs.
 
 ### Reflection 
-I learned that you should use a branch when you want to create a independent workspace in the same document. You should use a version when you want to create a snapshop in time. Instead of the extrude tool, you should use the loft tool if you want the sketch to change as it extrudes. You can use the animate tool to showcase your assembly.
+I learned that you should use a branch when you want to create a independent workspace in the same document. You should use a version when you want to create a snapshop in time. Instead of the extrude tool, you should use the loft tool if you want the sketch to change as it extrudes. 
 
 ## Multipart_Studio
 We were given multiple drawings and dimensions to create a new part.
