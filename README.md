@@ -8,6 +8,7 @@
 * [4.3_Assembly](#Assembly)
 * [4.4/5 Branch and Merge](#Branch_and_Merge)
 * [Multipart_Studio](#Multipart_Studio)
+*[Onshape_Certification](#Onshape_Certification)
 ---
 
 ## Swing_Arm 
@@ -82,3 +83,9 @@ This includes multiple parts including the Cylinder, top and bottom cap, plunger
 On the drawing if the dimensions are in parentheses then you should not have to manually put it in.
 I learned that for the second question that we had to extrude the poles up to face instead of extruding them blindly.
 I learned that you dont always need to make a new part you can just mirror it and then add changes later.
+
+## Onshape_Certification 
+
+I missed the test by 6 points. For me, the test part was fairly easy and I only missed 8 questios.  The hardest part of the test was making sure all of mesurements were correct. I had plenty of time to finish every thing but figured out that I messed up one of my first drawings in the last 20 minutes. I probably should have taken it again but I just procrastinated and never took it.
+
+
